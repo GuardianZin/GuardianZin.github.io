@@ -63,5 +63,5 @@ h1{
 }
 
 body {
-    background-image: url("/images/bbackground1.jpg");
+    background-image: url("url(../../images/bbackground.jgp)");
 }
