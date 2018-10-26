@@ -57,7 +57,8 @@ body {
 a {
   color: #0388a6; }
   a:hover {
-    color: #009ce0; }
+    color: #009ce0;
+}
 
 #main {
   padding: 50px; }

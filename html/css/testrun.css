@@ -1,0 +1,56 @@
+body {
+  line-height: 1;
+  background-image: url(images/mbackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;}
+    
+  
+    #topnav ul {
+        list-style-type: none;
+        left: 6%;
+        top: 20%;
+        margin: 0px;
+        padding: 0;
+        width: 200px;
+        background-color: #f1f1f1;
+        border: 1px solid #555;
+        border-radius: 20px;
+        position: absolute;
+        
+    }
+    
+    #topnav li a {
+        display: block;
+        color: #000;
+        padding: 8px 16px;
+        text-decoration: none;
+    }
+    
+    #topnav li {
+        text-align: center;
+        border-bottom: 1px solid #555;
+    }
+    
+    #topnav li:last-child {
+        border-bottom: none;
+    }
+    
+    
+    
+    #topnav li a:hover:not(.active) {
+        
+        color: darkred;
+        opacity: 0.8;
+    }
+
+    h1{
+      color: whitesmoke;
+      text-align: center;
+      font-size: 80px;
+      font-family: 'impact';
+      outline: #000;
+      outline-width: thick;
+      opacity: 0.9;
+    }
