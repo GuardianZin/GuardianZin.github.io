@@ -1,0 +1,16 @@
+body {
+  line-height: 1;
+  background-image: url(images/mbackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;}
+    
+
+a {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
