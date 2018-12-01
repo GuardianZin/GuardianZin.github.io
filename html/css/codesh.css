@@ -4,10 +4,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
-  #overflow: hidden;}
-  img{
-      width: 500px;
   }
+  img{
+      display: grid;
+  }
+
   p{
       color: white;
   }
